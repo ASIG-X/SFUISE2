@@ -1,4 +1,7 @@
 # SFUISE2
+
+SFUISE2 is a ROS2 package of the original system for Spline Fusion for UWB-Inertial State EStimation ([SFUISE](https://github.com/ASIG-X/SFUISE)). 
+
 ## Compilation
 ```
 cd ros2_ws/src/
